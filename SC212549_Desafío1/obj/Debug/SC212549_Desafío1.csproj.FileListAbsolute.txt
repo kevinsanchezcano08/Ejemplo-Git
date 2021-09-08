@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\bin\Debug\SC212549_Desafío1.exe.config
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\bin\Debug\SC212549_Desafío1.exe
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\bin\Debug\SC212549_Desafío1.pdb
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.exe
+C:\Users\kevin\OneDrive\Documentos\Aula-Virtual\III°PILET\UDB\C-II\DSP\SC212549_Desafío1\SC212549_Desafío1\obj\Debug\SC212549_Desafío1.pdb
